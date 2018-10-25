@@ -28,7 +28,7 @@ training_testing.ipynb
 ## Authors
 
 * **Carlos Mertens** - *Initial work*
-** Udacity - Machine Learning Engineer Nanodegree
+* **Udacity** - *Machine Learning Engineer Nanodegree Instructors*
 
 ## Acknowledgments
 
