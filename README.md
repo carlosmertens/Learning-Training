@@ -1,29 +1,35 @@
-# Model Evaluation and Validation
+# Machine Learning Engineer Nanodegree
 
-Data samples are prepared and analized. A few classifier models are created
-and then they are evaluated and validated with Sklearn library.
+Notes and codes taken and learned while taking the Nanodegree
 
-### Learn
+## Learn
 
-* We evaluate 3 different data samples
-* We train Models using some algorithms with scikit:
-    * Logistic Regression
-    * Neural Networks
-    * Decision Tree
-    * Support Vector Machines
-* We make our prediction on each model 
-* We test different Evaluation Metrics:
-    * Accuracy
-    * Mean Absolut Error
-    * Mean Squared Error
-    * R2 Score
-* We implement Cross Validation
-* We detect Overfitting and Underfitting
-* We apply Grid Search
+### Models
+
+    - Logistic Regression
+    - Neural Networks
+    - Decision Tree
+    - Support Vector Machines
+    - Linear Regression
+    - Perceptron Algorithm
+    - Naive Bayes
+
+### Evaluation Metrics:
+    
+    - Accuracy
+    - Mean Absolut Error
+    - Mean Squared Error
+    - R2 Score
+    - Detect Overfitting and Underfitting
+    
+### Validation Methods
+
+    - Cross Validation
+    - Grid Search
 
 ### Prerequisites
 
-This project was done with Anaconda Navigator.
+This course has used Anaconda Navigator, Atom and Command Lines Terminal.
 
 Packages installed:
 
@@ -41,12 +47,17 @@ Run the following notebook:
 
 ```
 training_testing.ipynb
+linear_regression.ipynb
+perceptron_algorithm.ipynb
+decision_trees.ipynb
+naive_bayes.ipynb
+support_vector_machines.ipynb
 ```
 
 ## Authors
 
-* **Udacity** - *Machine Learning Engineer Nanodegree Instructors*
 * **Carlos Mertens** - *Student*
+* **Udacity** - *Machine Learning Engineer Nanodegree Instructors*
 
 ## Acknowledgments
 
