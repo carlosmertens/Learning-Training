@@ -1,5 +1,6 @@
 {
 	"cSpell.words": [
 		"tanh"
-	]
+	],
+	"python.pythonPath": "/home/cmertens/anaconda3/envs/Udacity/bin/python"
 }
